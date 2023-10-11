@@ -1,0 +1,17 @@
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\bin\Debug\net6.0\AM.Infrastructures.deps.json
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\bin\Debug\net6.0\AM.Infrastructures.runtimeconfig.json
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\bin\Debug\net6.0\AM.Infrastructures.dll
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\bin\Debug\net6.0\AM.Infrastructures.pdb
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\AM.Infrastructures.csproj.AssemblyReference.cache
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\AM.Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\AM.Infrastructures.AssemblyInfoInputs.cache
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\AM.Infrastructures.AssemblyInfo.cs
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\AM.Infrastructures.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\AM.Infrastructures.csproj.CopyComplete
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\AM.Infrastructures.dll
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\refint\AM.Infrastructures.dll
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\AM.Infrastructures.pdb
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\AM.Infrastructures.genruntimeconfig.cache
+C:\Users\ismae\Downloads\homework2-linq-ismailgharnougui-master\homework2-linq-ismailgharnougui-master\AM.Infrastructures\obj\Debug\net6.0\ref\AM.Infrastructures.dll
