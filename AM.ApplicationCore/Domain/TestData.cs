@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace AM.ApplicationCore.Domain
-{
+{/*
     public static class TestData
     {
         public static Plane BoingPlane = new Plane { PlaneType = PlaneType.Boing, Capacity = 150, ManufactureDate = new DateTime(2015, 02, 03) };
@@ -42,4 +42,6 @@ namespace AM.ApplicationCore.Domain
         public static List<Flight> listFlights = new List<Flight> { flight1, flight2, flight3, flight4, flight5, flight6 };
     }
 
+}
+        */
 }

@@ -20,10 +20,10 @@ Console.WriteLine("Hello, World!");
 //    PlaneType = PlaneType.Boing,
 //    PlaneId = 2
 //};
-
+/*
 Passenger p1 = new Passenger
 {
-    FirstName = "Test",
+    FullName.FirstName = "Test",
     LastName = "Test",
     EmailAddress = "test"
 };
@@ -38,7 +38,8 @@ t1.PassengerType();
 s1.PassengerType();
 Console.WriteLine(p1.checkProfile("Test", "Test"));
 
-
+*/
+/*public static Staff captain = new Staff { FullName = new() { FirstName = "captain", LastName = "captain" } };
 
 Flightmethod sf = new Flightmethod();
 sf.Flights = TestData.listFlights;
@@ -60,8 +61,7 @@ foreach (var item in sf.SeniorTravellers(TestData.flight1))
 
 }
 
-
-
+*/
 
 
 
